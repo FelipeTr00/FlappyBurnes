@@ -1,5 +1,7 @@
 # Nome do Jogo: FlappyBurnes
 
+![FlappyBurnes, muito Bacon!](imagens/capa.jpg)
+
 Jogo de plataforma, com o objetivo de máximo score (pontos), em sátira ao aclamado jogo FlappyBirds, utilizando como protagonista nosso querido professor Burnes. Muito Bacon para vocês!
 
 ## Ficha Técnica
